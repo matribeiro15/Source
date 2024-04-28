@@ -1,10 +1,10 @@
 {
-    "Featured": "Destacado",
-    "Powered by ": "Alimentado por ",
+    "Featured": "Em destaque",
+    "Powered by ": "Distribuído por ",
     "Search posts, tags and authors": "Encontrar postagens, tópicos e autores",
     "Sign in": "Entrar",
     "Subscribe": "Inscrever",
-    "Account": "Conta",
+    "Account": "Minha Conta",
     "Latest": "Recente",
     "Upgrade": "Upgrade",
     "Recommendations": "Recomendações",
@@ -17,7 +17,7 @@
     "Zoom in/out": "Aumentar/Diminuir zoom",
     "Previous (arrow left)": "Anterior (botão esquerdo)",
     "Next (arrow right)": "Próximo (botão direito)",
-    "Read more": "Leia mais",
+    "Read more": "Leia também",
     "1 min read": "1 min de leitura",
     "% min read": "% min de leitura"
 }
