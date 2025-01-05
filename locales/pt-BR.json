@@ -16,9 +16,13 @@
     "Zoom in/out": "Aumentar/Diminuir Zoom",
     "Previous (arrow left)": "Anterior (arrow left)",
     "Next (arrow right)": "Próximo (arrow right)",
-    "Search this site": "Procurar em {site}",
+    "Search this site": "Pesquisar neste site",
     "Read more": "Veja mais",
     "By": "Por",
     "1 min read": "1 min de leitura",
-    "% min read": "% min de leitura"
+    "% min read": "% min de leitura",
+    "Search_btn": "Botao_Pesquisar",
+    "Signup_btn": "Botao_Inscrever",
+    "Signin_btn": "Botao_Login",
+    "Upgrade_btn": "Botao_Upgrade"
 }
